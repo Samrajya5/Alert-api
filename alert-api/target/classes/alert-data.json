@@ -1,0 +1,14 @@
+{
+  "customer": {
+    "applicationName": "App1",
+    "country": "Singapore",
+    "division": "Trade",
+    "globalId": "J7876GFT",
+    "organization": "KYC",
+    "region": "APAC",
+    "screeningMode": "Sanctions",
+    "screeningType": "Sanctions",
+    "sector": "Cards",
+    "unit": "B"
+  }
+}
